@@ -47,3 +47,4 @@ def test_divide(calc,a,b,expected):
 ])
 def test_module(calc,a,b,expected):
     assert calc.module(a,b)== expected
+
